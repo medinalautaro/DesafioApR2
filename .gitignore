@@ -20,9 +20,6 @@ models/checkpoints/
 # Best model
 models/best_model/
 
-# Final models (opcional)
-models/*.zip
-
 # Numpy
 *.npy
 
